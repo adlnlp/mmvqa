@@ -7,4 +7,6 @@ In preparation for the competition, we will be releasing the training and valida
 A leaderboard will be made available shortly, along with a comprehensive tutorial and detailed instructions to guide participants through the competition process. Stay tuned for more updates and information, which will be released soon.
 We look forward to your participation and to seeing the innovative approaches that will emerge from this competition!
 
+### Question Answer Pairs
 
+### Structured Document Files
