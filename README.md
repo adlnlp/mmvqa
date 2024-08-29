@@ -3,8 +3,11 @@ Document Question Answering (QA) presents a challenge in understanding visually 
 
 ## Dataset Link
 We are excited to announce that we will be organizing a competition at an upcoming top-tier conference, utilizing the MMVQA dataset. Participants will have the opportunity to showcase their skills in multimodal visual question answering, using one of the most advanced datasets in the field.
+
 In preparation for the competition, we will be releasing the training and validation sets in advance. Participants are encouraged to start familiarizing themselves with the data and begin their model development. Please note that the competition version of the dataset may differ slightly from the originally released version, reflecting the specific scope and task design of the competition.
+
 A leaderboard will be made available shortly, along with a comprehensive tutorial and detailed instructions to guide participants through the competition process. Stay tuned for more updates and information, which will be released soon.
+
 We look forward to your participation and to seeing the innovative approaches that will emerge from this competition!
 
 ### Question Answer Pairs
