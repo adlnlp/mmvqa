@@ -11,10 +11,12 @@ A leaderboard will be made available shortly, along with a comprehensive tutoria
 We look forward to your participation and to seeing the innovative approaches that will emerge from this competition!
 
 ### Structured Document Files
+The ".pkl" files contain the structural information from the post-processed documents. 
 [Training Set](https://drive.google.com/file/d/1AtZaq3M_tCVoTgyp7xxSvXwO0-cs_HFM/view?usp=sharing)
 
 [Validation Set](https://drive.google.com/file/d/1-IkjobifE3khiJxh53AzGCPWTtCHdKyH/view?usp=drive_link)
 ### Question Answer Pairs
+The ".csv" files contain the question-answering pairs with additional information. 
 [Training Set](https://drive.google.com/file/d/1-BVyeBf0E_9H9JZVupEgIwoGm_B-8YBR/view?usp=drive_link)
 
 [Validation Set](https://drive.google.com/file/d/1-IkjobifE3khiJxh53AzGCPWTtCHdKyH/view?usp=drive_link)
