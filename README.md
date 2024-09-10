@@ -12,15 +12,19 @@ We look forward to your participation and to seeing the innovative approaches th
 
 ### Structured Document Files
 The ".pkl" files contain the structural information from the post-processed documents. 
+
 [Training Set](https://drive.google.com/file/d/1AtZaq3M_tCVoTgyp7xxSvXwO0-cs_HFM/view?usp=sharing)
 
 [Validation Set](https://drive.google.com/file/d/1-IkjobifE3khiJxh53AzGCPWTtCHdKyH/view?usp=drive_link)
 ### Question Answer Pairs
 The ".csv" files contain the question-answering pairs with additional information. 
+
 [Training Set](https://drive.google.com/file/d/1-BVyeBf0E_9H9JZVupEgIwoGm_B-8YBR/view?usp=drive_link)
 
 [Validation Set](https://drive.google.com/file/d/1-IkjobifE3khiJxh53AzGCPWTtCHdKyH/view?usp=drive_link)
 ### Link to the Document Images
+The collected document image information. 
+
 [Image_Part1](https://drive.google.com/drive/folders/120dvYlID_D8cZ5-lOYHyu1WuHRKEMac6?usp=drive_link)
 
 [Image_Part2](https://drive.google.com/drive/folders/13JjcYgsH8bjY4W076HJ4apI9tHK5PWfO?usp=drive_link)
