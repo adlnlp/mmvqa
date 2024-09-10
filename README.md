@@ -10,6 +10,12 @@ A leaderboard will be made available shortly, along with a comprehensive tutoria
 
 We look forward to your participation and to seeing the innovative approaches that will emerge from this competition!
 
-### Question Answer Pairs
-
 ### Structured Document Files
+[Training Set](https://drive.google.com/file/d/1AtZaq3M_tCVoTgyp7xxSvXwO0-cs_HFM/view?usp=sharing)
+[Validation Set](https://drive.google.com/file/d/1-IkjobifE3khiJxh53AzGCPWTtCHdKyH/view?usp=drive_link)
+### Question Answer Pairs
+[Training Set](https://drive.google.com/file/d/1-BVyeBf0E_9H9JZVupEgIwoGm_B-8YBR/view?usp=drive_link)
+[Validation Set](https://drive.google.com/file/d/1-IkjobifE3khiJxh53AzGCPWTtCHdKyH/view?usp=drive_link)
+### Link to the Document Images
+[Image_Part1](https://drive.google.com/drive/folders/120dvYlID_D8cZ5-lOYHyu1WuHRKEMac6?usp=drive_link)
+[Image_Part2](https://drive.google.com/drive/folders/13JjcYgsH8bjY4W076HJ4apI9tHK5PWfO?usp=drive_link)
