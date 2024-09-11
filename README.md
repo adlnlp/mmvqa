@@ -41,6 +41,9 @@ We are happy to share raw PDF files for your information. However, please note t
 
 [Raw PDF Files](https://drive.google.com/drive/folders/1kZ5oaFXHwuv1mpBOceAb5SThi3LgcSzo?usp=drive_link)
 
+## Leaderboard
+TBD
+
 ## Citation
 
 If you use our work or dataset in your research, please cite our paper:
