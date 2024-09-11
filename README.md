@@ -32,7 +32,7 @@ The collected document image information.
 
 
 
-## Note 
+## Note: Raw Files
 We are happy to share raw PDF files for your information. However, please note that these are the raw PDF files and are not clean or preprocessed. Just for your reference.
 
 [Raw XML Files](https://drive.google.com/drive/folders/16MN9Q5Va2PE3stNCx42nLzEXvhXtIXMf?usp=drive_link)
