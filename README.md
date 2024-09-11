@@ -30,7 +30,8 @@ The collected document image information.
 
 [Image_Part1](https://drive.google.com/drive/folders/120dvYlID_D8cZ5-lOYHyu1WuHRKEMac6?usp=drive_link)
 
-[Image_Part2](https://drive.google.com/drive/folders/13JjcYgsH8bjY4W076HJ4apI9tHK5PWfO?usp=drive_link)
+[Image_Part2](https://drive.google.com/file/d/1tluQaTENTwWxy6m2Ut9NAWIW7Yn70Q1_/view?usp=drive_link)
+
 
 
 
