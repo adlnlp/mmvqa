@@ -28,3 +28,18 @@ The collected document image information.
 [Image_Part1](https://drive.google.com/drive/folders/120dvYlID_D8cZ5-lOYHyu1WuHRKEMac6?usp=drive_link)
 
 [Image_Part2](https://drive.google.com/drive/folders/13JjcYgsH8bjY4W076HJ4apI9tHK5PWfO?usp=drive_link)
+
+
+Note: 
+
+## Citation
+
+If you use our work or dataset in your research, please cite our paper:
+
+```bibtex
+@article{dingmmvqa,
+  title={MMVQA: A Comprehensive Dataset for Investigating Multipage Multimodal Information Retrieval in PDF-based Visual Question Answering},
+  author={Ding, Yihao and Ren, Kaixuan and Huang, Jiabin and Luo, Siwen and Han, Soyeon Caren},
+  journal={the 33rd International Joint Conference on Artificial Intelligence},
+  year={2024}
+}
