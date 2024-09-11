@@ -30,7 +30,11 @@ The collected document image information.
 [Image_Part2](https://drive.google.com/drive/folders/13JjcYgsH8bjY4W076HJ4apI9tHK5PWfO?usp=drive_link)
 
 
-Note: 
+
+## Note 
+We are happy to share raw PDF files for your information. However, please note that these are the raw PDF files and are not clean or preprocessed. Just for your reference.
+[Raw XML Files](https://drive.google.com/drive/folders/16MN9Q5Va2PE3stNCx42nLzEXvhXtIXMf?usp=drive_link)
+[Raw PDF Files](https://drive.google.com/drive/folders/1kZ5oaFXHwuv1mpBOceAb5SThi3LgcSzo?usp=drive_link)
 
 ## Citation
 
