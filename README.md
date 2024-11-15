@@ -24,13 +24,13 @@ The ".csv" files contain the question-answering pairs with additional informatio
 
 [Training Set](https://drive.google.com/file/d/1-BVyeBf0E_9H9JZVupEgIwoGm_B-8YBR/view?usp=drive_link)
 
-[Validation Set](https://drive.google.com/file/d/1-IkjobifE3khiJxh53AzGCPWTtCHdKyH/view?usp=drive_link)
+[Validation Set](https://drive.google.com/file/d/1tluQaTENTwWxy6m2Ut9NAWIW7Yn70Q1_/view?usp=drive_link)
 ### Link to the Document Images
 The collected document image information. 
 
 [Image_Part1](https://drive.google.com/drive/folders/120dvYlID_D8cZ5-lOYHyu1WuHRKEMac6?usp=drive_link)
 
-[Image_Part2](https://drive.google.com/file/d/1tluQaTENTwWxy6m2Ut9NAWIW7Yn70Q1_/view?usp=drive_link)
+[Image_Part2](???)
 
 
 
